@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A["(0) tinhPhi(double trongLuong, boolean isHoaToc)"]
     B{"(1) trongLuong <= 0"}
