@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 📦 Kiểm Thử Dòng Điều Khiển - Công Cụ Tính Phí Vận Chuyển
 
 Dự án này là bài tập thực hành áp dụng phương pháp **Kiểm thử dòng điều khiển (Control Flow Testing)** với tiêu chuẩn độ phủ nhánh **C2 (Branch Coverage)** cho bài toán Tính Phí Vận Chuyển.
@@ -46,8 +46,7 @@ Kiểu dữ liệu: `long`
 
 Đồ thị Control Flow Graph cho hàm `tinhPhi` ứng với phân tích độ đo C2:
 
-=======
->>>>>>> 30678da05910c5fee959f50885df7d9b7af69033
+
 ```mermaid
 flowchart TD
     A["(0) tinhPhi(double trongLuong, boolean isHoaToc)"]
@@ -95,7 +94,7 @@ flowchart TD
 
     L --> M
     M --> N
-<<<<<<< HEAD
+
 ```
 
 ---
@@ -139,5 +138,3 @@ chcp 65001
 # Chạy test thông qua Maven
 mvn clean test
 ```
-=======
->>>>>>> 30678da05910c5fee959f50885df7d9b7af69033
